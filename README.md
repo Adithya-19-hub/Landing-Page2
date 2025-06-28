@@ -12,5 +12,5 @@
 
 <h3>⚒️Tech Stack:</h3>
 
-.<strong>Frontend</strong>:React.js,React Router DOM,Tailwind CSS<br/>
-.<strong>Build Tool</strong>:(vite/Create React App)
+<strong>Frontend</strong>:React.js,React Router DOM,Tailwind CSS<br/>
+<strong>Build Tool</strong>:(vite/Create React App)
