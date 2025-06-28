@@ -4,13 +4,13 @@
 
 <h3>💡Key Features:</h3>
 
-.<strong>React Functional Components</strong> for clean, modular UI structure
-.<strong>Tailwind CSS</strong> for fast,utility-first styling
-.<strong>React Router DOM</strong> for seamless client-side routing
-.<strong>Dynamic rendering using</strong> map() to loop through and display UI content
-.<strong>Fully responsive design</strong>
+<strong>React Functional Components</strong> for clean, modular UI structure<br/>
+<strong>Tailwind CSS</strong> for fast,utility-first styling<br/>
+<strong>React Router DOM</strong> for seamless client-side routing<br/>
+<strong>Dynamic rendering using</strong> map() to loop through and display UI content<br/>
+<strong>Fully responsive design</strong>
 
 <h3>⚒️Tech Stack:</h3>
 
-.<strong>Frontend</strong>:React.js,React Router DOM,Tailwind CSS
+.<strong>Frontend</strong>:React.js,React Router DOM,Tailwind CSS<br/>
 .<strong>Build Tool</strong>:(vite/Create React App)
